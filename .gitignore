@@ -48,3 +48,5 @@ bin/
 /gradlew.bat
 /.idea/misc.xml
 /.idea/vcs.xml
+/.idea/.name
+/.idea/uiDesigner.xml
